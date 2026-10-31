@@ -19,4 +19,18 @@ El formulario valida datos y prepara un mensaje; la persona abre WhatsApp y puls
 
 ## Pendiente de información del estudio
 
-Nombre y biografía del artista, fotografía del estudio, dirección, horarios y condiciones de anticipos. No hay testimonios ni certificaciones inventadas. moonink.cl es el dominio previsto en los metadatos; su configuración DNS requiere acceso al dominio.
+Nombre y biografía del artista, fotografía del estudio y condiciones de anticipos. No hay testimonios ni certificaciones inventadas. moonink.cl es el dominio previsto en los metadatos; su configuración DNS requiere acceso al dominio.
+
+## Contacto del estudio
+
+Dirección: Domeyko 9240, Chile. Horario: 08:00 a 18:00 hrs. Días de atención y comuna: por confirmar.
+
+## Demo desde GitHub con Vercel
+
+1. Sube este proyecto a un repositorio de GitHub (sin node_modules, .next ni out).
+2. En Vercel, selecciona Add New > Project e importa el repositorio.
+3. Usa el preset Next.js y la carpeta raíz del repositorio. Conserva la configuración de compilación detectada automáticamente.
+4. Pulsa Deploy y comparte la URL generada. Cada push a la rama de producción actualizará la demo; los pull requests pueden generar vistas previas.
+
+No necesitas configurar moonink.cl para mostrar la demo. Las imágenes optimizadas ya están en public.
+
